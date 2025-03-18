@@ -1,6 +1,6 @@
 # INFORME GRUPO 5 
 ## RESUMEN DEL REPOSITORIO
-En el presente informe se realizó la busqueda de varios repositorios con la finalidad que encontrar una que posea inormación teórica y práctica sobre el tema de ciberseguridad.
+En el presente informe se realizó la busqueda de varios repositorios con la finalidad de encontrar uno que proporcione información teórica y práctica sobre el tema de ciberseguridad.
 
 ### Repositorios encontrados:
 ### Repositorio 1: 
@@ -26,6 +26,11 @@ El repositorio AllHackingTools tiene varias herramientas para ciberseguridad, en
 URL: https://github.com/0xor0ne/awesome-list?tab=readme-ov-file#networking 
 
 El presente repositorio enlista un sinnúmero de recursos y herramientas sobre ciberseguridad, logrando formar una biblioteca tipo guía, en la cual se indica que herramienta se puede usar dependiendo de la actividad que se va a realizar: análisis de malware, ingeniería inversa, redes, entornos de virtualización, entre otros. En esta encontramos enlaces hacia blogs, tutoriales, investigaciones y fuentes de descarga. 
+
+#REPOSITORIO SELECCIONADO
+El repositorio seleccionado es el número 1 debido a que contaba con información de guías, tutoriales y enlaces de descarga de distintos recursos, en si una biblioteca completa de material en ciberseguridad en español, al contrario de los otros repositorios que, si bien compartían información, no lo hacían de forma tan detallada o no lograban abarcar con una gran cantidad de temas. 
+
+A continuación, se detalla algunos puntos destacados sobre el repositorio: 
 
 ## ACTUALIZACIONES SUGERIDAS
 La información del repositorio seleccionado es valiosa, sin embargo, se procedió a revisar cada una de las herramientas que ofrece y verificar que estás estén disponibles caso contrario proponer nuevas rutas: 
