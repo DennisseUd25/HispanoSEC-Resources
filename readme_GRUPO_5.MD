@@ -4,6 +4,11 @@ En el presente informe se realizó la busqueda de varios repositorios con la fin
 
 ### Repositorios encontrados:
 
+### Repositorio 4: 
+
+URL: https://github.com/0xor0ne/awesome-list?tab=readme-ov-file#networking 
+
+El presente repositorio enlista un sinnúmero de recursos y herramientas sobre ciberseguridad, logrando formar una biblioteca tipo guía, en la cual se indica que herramienta se puede usar dependiendo de la actividad que se va a realizar: análisis de malware, ingeniería inversa, redes, entornos de virtualización, entre otros. En esta encontramos enlaces hacia blogs, tutoriales, investigaciones y fuentes de descarga. 
 
 ## ACTUALIZACIONES SUGERIDAS
 La información del repositorio seleccionado es valiosa, sin embargo, se procedió a revisar cada una de las herramientas que ofrece y verificar que estás estén disponibles caso contrario proponer nuevas rutas: 
@@ -22,3 +27,23 @@ https://books.google.com.ec/books?hl=es&lr=&id=LsWiBQAAQBAJ&oi=fnd&pg=PT6&dq=+Bu
 https://books.google.com.ec/books?hl=es&lr=&id=k3JuVG2D9lMC&oi=fnd&pg=PA107&dq=Libro+protocolo+Wi-Fi,+sus+tipos+de+paqutes+y+distintos+ataques+en+profundidad+a+redes+WEP+y+WPA&ots=8Hq9-ufUcM&sig=nb8Uqk3zNOoCgGnDLncHLRXBxuk&redir_esc=y#v=onepage&q&f=false 
 
 La incorporación de artículos, páginas y libros más actualizados pretende fortalecer y enriquecer el repositorio seleccionado, con el objetivo de aportar significativamente al avance y desarrollo del estudio de la Ciberseguridad. Esta actualización continua no solo optimiza el acceso a información relevante, sino que también facilita el aprendizaje y la investigación en un campo tan dinámico y en constante evolución como lo es la seguridad. 
+## EDUCACIÓN Y CONCIENCIACIÓN
+
+El repositorio Github HispanoSEC-Resources es un excelente recurso educativo orientado a temas de ciberseguridad que ofrece diversas herramientas informativas que fomentan el aprendizaje y la práctica de estas, sobre todo para los hispano-hablantes, esta es una gran fuente de datos, debido a que cuenta con una gran cantidad de material con sus debidas instrucciones en español, siendo idóneo para aprendices que no poseen un dominio en el tema.  
+
+Enlistando algunas de las herramientas que guarda encontramos Maltego y Shodan para OSINT, YARA para análisis de malware, Suricata y Wireshark para tráfico de datos, y Volatility en el análisis forense.  
+
+Entre sus ventajas, cuenta con una facilidad de acceso a material diversificado acerca de temas de pentesting, seguridad de redes, análisis forense, malware, y OSINT, sobre todo ofrece información principalmente relevante que agiliza el adquirir habilidades que permitan el análisis de datos y de amenazas, es decir, no solo comparte una base teórica, sino también práctica que permite a los estudiantes asimilar los conocimientos adquiridos dentro del mundo real. Unas plataformas con las que se podría aportar y que cuentan con entornos adecuados para realizar prácticas son OverTheWire y TryHackme: 
+
+https://tryhackme.com/ 
+
+https://overthewire.org/wargames/ 
+
+Para personas interesadas en aprender sobre el tema de ciberseguridad y que posean dificultades con otros idiomas fuera del español, este repositorio brinda el acceso a bases de datos con guías y tutoriales en español, eliminando la necesidad de recurrir a traductores, que a la final no desarrollan de forma correcta el tema de investigación generando más inconformidad, confusión y desmotivación. Compartimos un enlace sobre la importancia del material en español de ciberseguridad para lograr la concientización: 
+
+https://cybersecuritynews.es/ciberseguridad-y-traduccion-las-muchas-caras-de-esta-profesion/ 
+
+ 
+Finalmente, gracias a que este repositorio se encuentra público, aquellos entusiastas en la ciberseguridad pueden tomar esta información como una base para partir con sus investigaciones y a la vez contribuir con mayor información y experiencias a enriquecer esta fuente de conocimiento para aquellos futuros aprendices. Al igual que este repositorio, existe otros similares que buscan impulsar el aprendizaje cómo el que encontramos a continuación: 
+
+https://github.com/paezdavid/ciberseguridad-essentials/blob/main/README.md 
