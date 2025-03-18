@@ -9,6 +9,12 @@ URL: https://github.com/jdiazmx/HispanoSEC-Resources/tree/master
 
 HispanoSEC-Resources es un repositorio diseñado con el propósito de proporcionar recursos para aquellos interesados en aprender sobre Ciberseguridad. Este repositorio alberga una variedad de herramientas, blogs, foros y libros con información de alta utilidad sobre temas cruciales como: Malware, Hacking Web, Hacking de Redes, Ingeniería Social, entre otros. Este repositorio se presenta como una plataforma integral para el aprendizaje y la profundización en diversas áreas de la ciberseguridad, brindando a los usuarios acceso a contenido especializado y recursos prácticos.  
 
+### Repositorio 2:
+
+URL: https://github.com/Samsar4/Ethical-Hacking-Labs
+
+El presente repositorio **Ethical-Hacking-Labs** contiene una colección de tutoriales y laboratorios para estudiantes de hacking ético, ciberseguridad, administradores de redes y sistemas. Este repositorio es una guía que inicia desde lo básico hasta las técnicas más avanzadas.
+
 ### Repositorio 4: 
 
 URL: https://github.com/0xor0ne/awesome-list?tab=readme-ov-file#networking 
@@ -54,4 +60,38 @@ Finalmente, gracias a que este repositorio se encuentra público, aquellos entus
 https://github.com/paezdavid/ciberseguridad-essentials/blob/main/README.md 
 
 
-## Analisis
+## Herramientas 
+
+[Multiples herramientas de Python para realizar Pentest - By Dloss](https://github.com/dloss/python-pentest-tools)
+
+Es un repositorio que cuenta con herramientas escritas en Python, otras son simplemente enlaces de Python para librerías C existentes, es decir, hacen que esas librerías sean fácilmente utilizables desde programas Python. Estas herramientas son para investigación de vulnerabilidades, ingeniería inversa o pentesting. 
+
+[Shodan](https://www.shodan.io/) 
+
+Es un motor de búsqueda que le permite al usuario encontrar iguales o diferentes tipos específicos de equipos (routers, servidores, etc.) conectados a Internet a través de una variedad de filtros. 
+
+[Virtustotal](https://www.virustotal.com/gui/home/upload) 
+
+Es una página web que permite el análisis de archivos, dominios, IP y URL sospechosos para detectar malware y otras infracciones, y compártalos automáticamente con la comunidad de seguridad y poder detectar amenazas de ciberseguridad. 
+
+[Masscan](https://github.com/robertdavidgraham/masscan) 
+
+Es una herramienta de escaneo de puertos de red rápida y de código abierto. Se diseñó para llevar a cabo escaneos de puertos en redes de alta velocidad de forma eficiente y rápida. 
+
+[Metadefender (OPSWAT)](https://metadefender.opswat.com/#!/) 
+
+Es una alternativa a Virus Total para escanear archivos online; los archivos que queramos en la nube con más de 40 motores diferentes. Las principales características de Metadefender Cloud son: 
+
+- Nos permite analizar todo tipo de archivos con un máximo de 140 MB. 
+
+- Nos ofrece 41 motores antivirus diferentes. 
+
+- Analiza direcciones IP para decirnos si es fiable o sospechosa. 
+
+- Cuenta con un completo análisis de vulnerabilidades para saber si nuestro ordenador puede estar en peligro. 
+
+- Plataforma totalmente gratuita y no requiere registro. 
+
+[Free Malware Sample Sources for Researchers](https://zeltser.com/malware-sample-sources/) 
+
+Los investigadores de malware buscan con frecuencia muestras de malware para analizar las técnicas de amenaza y desarrollar 			defensas. En esta página se listan y se puede descargar 			muestras de URL maliciosas conocidas, los investigadores pueden obtener muestras de malware de fuentes gratuitas.
