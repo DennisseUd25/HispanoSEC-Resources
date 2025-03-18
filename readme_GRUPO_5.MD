@@ -15,6 +15,13 @@ URL: https://github.com/Samsar4/Ethical-Hacking-Labs
 
 El presente repositorio **Ethical-Hacking-Labs** contiene una colección de tutoriales y laboratorios para estudiantes de hacking ético, ciberseguridad, administradores de redes y sistemas. Este repositorio es una guía que inicia desde lo básico hasta las técnicas más avanzadas.
 
+### Repositorio 3: 
+
+URL: https://github.com/mishakorzik/AllHackingTools
+
+El repositorio AllHackingTools tiene varias herramientas para ciberseguridad, en su menú de opciones se observa Explotation Tools, Sniffing and Spoofing, Herramientas para ataques web, SQL injection, entre otras. Entre los puntos negativos del repositorio están: la falta de contribuidores, ya que solo se visualiza uno; y la falta de actividad en el presente año, siendo el año mas activo el 2021. Sin embargo, es útil para aprender herramientas de ciberseguridad por la variedad de su contenido.
+=======
+
 ### Repositorio 4: 
 
 URL: https://github.com/0xor0ne/awesome-list?tab=readme-ov-file#networking 
