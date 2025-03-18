@@ -4,7 +4,7 @@ En el presente informe se realizó la busqueda de varios repositorios con la fin
 
 ### Repositorios encontrados:
 
-###Repositorio 4: 
+### Repositorio 4: 
 
 URL: https://github.com/0xor0ne/awesome-list?tab=readme-ov-file#networking 
 
