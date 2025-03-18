@@ -52,3 +52,6 @@ https://cybersecuritynews.es/ciberseguridad-y-traduccion-las-muchas-caras-de-est
 Finalmente, gracias a que este repositorio se encuentra público, aquellos entusiastas en la ciberseguridad pueden tomar esta información como una base para partir con sus investigaciones y a la vez contribuir con mayor información y experiencias a enriquecer esta fuente de conocimiento para aquellos futuros aprendices. Al igual que este repositorio, existe otros similares que buscan impulsar el aprendizaje cómo el que encontramos a continuación: 
 
 https://github.com/paezdavid/ciberseguridad-essentials/blob/main/README.md 
+
+
+## Analisis
