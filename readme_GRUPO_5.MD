@@ -101,3 +101,8 @@ Es una alternativa a Virus Total para escanear archivos online; los archivos que
 [Free Malware Sample Sources for Researchers](https://zeltser.com/malware-sample-sources/) 
 
 Los investigadores de malware buscan con frecuencia muestras de malware para analizar las técnicas de amenaza y desarrollar 			defensas. En esta página se listan y se puede descargar 			muestras de URL maliciosas conocidas, los investigadores pueden obtener muestras de malware de fuentes gratuitas.
+
+## Sugerencias al repositorio
+
+- El repositorio no ha tenido actualizaciones desde el año 2022, por lo que se recomienda mayor interacción. 
+- Se recomienda que el repositorio cuente con mas contribuidores para tener más puntos de vista y así generar mas actividad.
