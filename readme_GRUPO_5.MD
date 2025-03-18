@@ -104,5 +104,5 @@ Los investigadores de malware buscan con frecuencia muestras de malware para ana
 
 ## Sugerencias al repositorio
 
-- El repositorio no ha tenido actualizaciones desde el año 2022, por lo que se recomienda mayor interacción. 
+- El repositorio no ha tenido actualizaciones desde el año 2019, por lo que se recomienda mayor interacción. 
 - Se recomienda que el repositorio cuente con mas contribuidores para tener más puntos de vista y así generar mas actividad.
