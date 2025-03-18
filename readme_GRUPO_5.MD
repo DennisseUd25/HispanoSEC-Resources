@@ -3,6 +3,11 @@
 En el presente informe se realizó la busqueda de varios repositorios con la finalidad que encontrar una que posea inormación teórica y práctica sobre el tema de ciberseguridad.
 
 ### Repositorios encontrados:
+### Repositorio 1: 
+
+URL: https://github.com/jdiazmx/HispanoSEC-Resources/tree/master 
+
+HispanoSEC-Resources es un repositorio diseñado con el propósito de proporcionar recursos para aquellos interesados en aprender sobre Ciberseguridad. Este repositorio alberga una variedad de herramientas, blogs, foros y libros con información de alta utilidad sobre temas cruciales como: Malware, Hacking Web, Hacking de Redes, Ingeniería Social, entre otros. Este repositorio se presenta como una plataforma integral para el aprendizaje y la profundización en diversas áreas de la ciberseguridad, brindando a los usuarios acceso a contenido especializado y recursos prácticos.  
 
 ### Repositorio 4: 
 
@@ -47,3 +52,6 @@ https://cybersecuritynews.es/ciberseguridad-y-traduccion-las-muchas-caras-de-est
 Finalmente, gracias a que este repositorio se encuentra público, aquellos entusiastas en la ciberseguridad pueden tomar esta información como una base para partir con sus investigaciones y a la vez contribuir con mayor información y experiencias a enriquecer esta fuente de conocimiento para aquellos futuros aprendices. Al igual que este repositorio, existe otros similares que buscan impulsar el aprendizaje cómo el que encontramos a continuación: 
 
 https://github.com/paezdavid/ciberseguridad-essentials/blob/main/README.md 
+
+
+## Analisis
