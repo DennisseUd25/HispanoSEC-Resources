@@ -27,7 +27,7 @@ URL: https://github.com/0xor0ne/awesome-list?tab=readme-ov-file#networking
 
 El presente repositorio enlista un sinnúmero de recursos y herramientas sobre ciberseguridad, logrando formar una biblioteca tipo guía, en la cual se indica que herramienta se puede usar dependiendo de la actividad que se va a realizar: análisis de malware, ingeniería inversa, redes, entornos de virtualización, entre otros. En esta encontramos enlaces hacia blogs, tutoriales, investigaciones y fuentes de descarga. 
 
-#REPOSITORIO SELECCIONADO
+# REPOSITORIO SELECCIONADO
 El repositorio seleccionado es el número 1 debido a que contaba con información de guías, tutoriales y enlaces de descarga de distintos recursos, en si una biblioteca completa de material en ciberseguridad en español, al contrario de los otros repositorios que, si bien compartían información, no lo hacían de forma tan detallada o no lograban abarcar con una gran cantidad de temas. 
 
 A continuación, se detalla algunos puntos destacados sobre el repositorio: 
