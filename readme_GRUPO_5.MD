@@ -28,7 +28,6 @@ https://books.google.com.ec/books?hl=es&lr=&id=k3JuVG2D9lMC&oi=fnd&pg=PA107&dq=L
 
 La incorporación de artículos, páginas y libros más actualizados pretende fortalecer y enriquecer el repositorio seleccionado, con el objetivo de aportar significativamente al avance y desarrollo del estudio de la Ciberseguridad. Esta actualización continua no solo optimiza el acceso a información relevante, sino que también facilita el aprendizaje y la investigación en un campo tan dinámico y en constante evolución como lo es la seguridad. 
 ## EDUCACIÓN Y CONCIENCIACIÓN
- - Educación y concienciación (Dennisse): 
 
 El repositorio Github HispanoSEC-Resources es un excelente recurso educativo orientado a temas de ciberseguridad que ofrece diversas herramientas informativas que fomentan el aprendizaje y la práctica de estas, sobre todo para los hispano-hablantes, esta es una gran fuente de datos, debido a que cuenta con una gran cantidad de material con sus debidas instrucciones en español, siendo idóneo para aprendices que no poseen un dominio en el tema.  
 
