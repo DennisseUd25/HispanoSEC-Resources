@@ -1,6 +1,4 @@
-<p align="center">
 # INFORME GRUPO 5 
-</p>
 ## Repositorios encontrados:
 Se llevó a cabo una exhaustiva búsqueda de repositorios en GitHub relacionados con la Ciberseguridad. Durante este proceso, se identificaron cuatro repositorios que abordan temas de gran relevancia e importancia en el ámbito de la Ciberseguridad, los cuales se detallan a continuación:
 
