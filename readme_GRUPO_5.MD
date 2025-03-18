@@ -9,6 +9,12 @@ URL: https://github.com/jdiazmx/HispanoSEC-Resources/tree/master
 
 HispanoSEC-Resources es un repositorio diseñado con el propósito de proporcionar recursos para aquellos interesados en aprender sobre Ciberseguridad. Este repositorio alberga una variedad de herramientas, blogs, foros y libros con información de alta utilidad sobre temas cruciales como: Malware, Hacking Web, Hacking de Redes, Ingeniería Social, entre otros. Este repositorio se presenta como una plataforma integral para el aprendizaje y la profundización en diversas áreas de la ciberseguridad, brindando a los usuarios acceso a contenido especializado y recursos prácticos.  
 
+### Repositorio 3: 
+
+URL: https://github.com/mishakorzik/AllHackingTools
+
+El repositorio AllHackingTools tiene varias herramientas para ciberseguridad, en su menú de opciones se observa Explotation Tools, Sniffing and Spoofing, Herramientas para ataques web, SQL injection, entre otras. Entre los puntos negativos del repositorio están: la falta de contribuidores, ya que solo se visualiza uno; y la falta de actividad en el presente año, siendo el año mas activo el 2021. Sin embargo, es útil para aprender herramientas de ciberseguridad por la variedad de su contenido.
+
 ### Repositorio 4: 
 
 URL: https://github.com/0xor0ne/awesome-list?tab=readme-ov-file#networking 
