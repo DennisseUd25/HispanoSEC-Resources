@@ -1,6 +1,6 @@
 # INFORME GRUPO 5 
 ## RESUMEN DEL REPOSITORIO
-En el presente informe se realizó la busqueda de varios repositorios con la finalidad que encontrar una que posea inormación teórica y práctica sobre el tema de ciberseguridad.
+En el presente informe se realizó la busqueda de varios repositorios con la finalidad de encontrar uno que proporcione información teórica y práctica sobre el tema de ciberseguridad.
 
 ### Repositorios encontrados:
 ### Repositorio 1: 
@@ -9,11 +9,28 @@ URL: https://github.com/jdiazmx/HispanoSEC-Resources/tree/master
 
 HispanoSEC-Resources es un repositorio diseñado con el propósito de proporcionar recursos para aquellos interesados en aprender sobre Ciberseguridad. Este repositorio alberga una variedad de herramientas, blogs, foros y libros con información de alta utilidad sobre temas cruciales como: Malware, Hacking Web, Hacking de Redes, Ingeniería Social, entre otros. Este repositorio se presenta como una plataforma integral para el aprendizaje y la profundización en diversas áreas de la ciberseguridad, brindando a los usuarios acceso a contenido especializado y recursos prácticos.  
 
+### Repositorio 2:
+
+URL: https://github.com/Samsar4/Ethical-Hacking-Labs
+
+El presente repositorio **Ethical-Hacking-Labs** contiene una colección de tutoriales y laboratorios para estudiantes de hacking ético, ciberseguridad, administradores de redes y sistemas. Este repositorio es una guía que inicia desde lo básico hasta las técnicas más avanzadas.
+
+### Repositorio 3: 
+
+URL: https://github.com/mishakorzik/AllHackingTools
+
+El repositorio AllHackingTools tiene varias herramientas para ciberseguridad, en su menú de opciones se observa Explotation Tools, Sniffing and Spoofing, Herramientas para ataques web, SQL injection, entre otras. Entre los puntos negativos del repositorio están: la falta de contribuidores, ya que solo se visualiza uno; y la falta de actividad en el presente año, siendo el año mas activo el 2021. Sin embargo, es útil para aprender herramientas de ciberseguridad por la variedad de su contenido.
+
 ### Repositorio 4: 
 
 URL: https://github.com/0xor0ne/awesome-list?tab=readme-ov-file#networking 
 
 El presente repositorio enlista un sinnúmero de recursos y herramientas sobre ciberseguridad, logrando formar una biblioteca tipo guía, en la cual se indica que herramienta se puede usar dependiendo de la actividad que se va a realizar: análisis de malware, ingeniería inversa, redes, entornos de virtualización, entre otros. En esta encontramos enlaces hacia blogs, tutoriales, investigaciones y fuentes de descarga. 
+
+# REPOSITORIO SELECCIONADO
+El repositorio seleccionado es el número 1 debido a que contaba con información de guías, tutoriales y enlaces de descarga de distintos recursos, en si una biblioteca completa de material en ciberseguridad en español, al contrario de los otros repositorios que, si bien compartían información, no lo hacían de forma tan detallada o no lograban abarcar con una gran cantidad de temas. 
+
+A continuación, se detalla algunos puntos destacados sobre el repositorio: 
 
 ## ACTUALIZACIONES SUGERIDAS
 La información del repositorio seleccionado es valiosa, sin embargo, se procedió a revisar cada una de las herramientas que ofrece y verificar que estás estén disponibles caso contrario proponer nuevas rutas: 
@@ -52,3 +69,45 @@ https://cybersecuritynews.es/ciberseguridad-y-traduccion-las-muchas-caras-de-est
 Finalmente, gracias a que este repositorio se encuentra público, aquellos entusiastas en la ciberseguridad pueden tomar esta información como una base para partir con sus investigaciones y a la vez contribuir con mayor información y experiencias a enriquecer esta fuente de conocimiento para aquellos futuros aprendices. Al igual que este repositorio, existe otros similares que buscan impulsar el aprendizaje cómo el que encontramos a continuación: 
 
 https://github.com/paezdavid/ciberseguridad-essentials/blob/main/README.md 
+
+
+## Herramientas 
+
+[Multiples herramientas de Python para realizar Pentest - By Dloss](https://github.com/dloss/python-pentest-tools)
+
+Es un repositorio que cuenta con herramientas escritas en Python, otras son simplemente enlaces de Python para librerías C existentes, es decir, hacen que esas librerías sean fácilmente utilizables desde programas Python. Estas herramientas son para investigación de vulnerabilidades, ingeniería inversa o pentesting. 
+
+[Shodan](https://www.shodan.io/) 
+
+Es un motor de búsqueda que le permite al usuario encontrar iguales o diferentes tipos específicos de equipos (routers, servidores, etc.) conectados a Internet a través de una variedad de filtros. 
+
+[Virtustotal](https://www.virustotal.com/gui/home/upload) 
+
+Es una página web que permite el análisis de archivos, dominios, IP y URL sospechosos para detectar malware y otras infracciones, y compártalos automáticamente con la comunidad de seguridad y poder detectar amenazas de ciberseguridad. 
+
+[Masscan](https://github.com/robertdavidgraham/masscan) 
+
+Es una herramienta de escaneo de puertos de red rápida y de código abierto. Se diseñó para llevar a cabo escaneos de puertos en redes de alta velocidad de forma eficiente y rápida. 
+
+[Metadefender (OPSWAT)](https://metadefender.opswat.com/#!/) 
+
+Es una alternativa a Virus Total para escanear archivos online; los archivos que queramos en la nube con más de 40 motores diferentes. Las principales características de Metadefender Cloud son: 
+
+- Nos permite analizar todo tipo de archivos con un máximo de 140 MB. 
+
+- Nos ofrece 41 motores antivirus diferentes. 
+
+- Analiza direcciones IP para decirnos si es fiable o sospechosa. 
+
+- Cuenta con un completo análisis de vulnerabilidades para saber si nuestro ordenador puede estar en peligro. 
+
+- Plataforma totalmente gratuita y no requiere registro. 
+
+[Free Malware Sample Sources for Researchers](https://zeltser.com/malware-sample-sources/) 
+
+Los investigadores de malware buscan con frecuencia muestras de malware para analizar las técnicas de amenaza y desarrollar 			defensas. En esta página se listan y se puede descargar 			muestras de URL maliciosas conocidas, los investigadores pueden obtener muestras de malware de fuentes gratuitas.
+
+## Sugerencias al repositorio
+
+- El repositorio no ha tenido actualizaciones desde el año 2019, por lo que se recomienda mayor interacción. 
+- Se recomienda que el repositorio cuente con mas contribuidores para tener más puntos de vista y así generar mas actividad.
