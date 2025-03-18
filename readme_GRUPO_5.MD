@@ -20,7 +20,6 @@ El presente repositorio **Ethical-Hacking-Labs** contiene una colección de tuto
 URL: https://github.com/mishakorzik/AllHackingTools
 
 El repositorio AllHackingTools tiene varias herramientas para ciberseguridad, en su menú de opciones se observa Explotation Tools, Sniffing and Spoofing, Herramientas para ataques web, SQL injection, entre otras. Entre los puntos negativos del repositorio están: la falta de contribuidores, ya que solo se visualiza uno; y la falta de actividad en el presente año, siendo el año mas activo el 2021. Sin embargo, es útil para aprender herramientas de ciberseguridad por la variedad de su contenido.
-=======
 
 ### Repositorio 4: 
 
