@@ -2,12 +2,11 @@
 ## RESUMEN DEL REPOSITORIO
 En el presente informe se realizó la busqueda de varios repositorios con la finalidad que encontrar una que posea inormación teórica y práctica sobre el tema de ciberseguridad.
 
-### Repositorios encontrados:
 ### Repositorio 1: 
 
 URL: https://github.com/jdiazmx/HispanoSEC-Resources/tree/master 
 
-HispanoSEC-Resources es un repositorio diseñado con el propósito de proporcionar recursos para aquellos interesados en aprender sobre Ciberseguridad. Este repositorio alberga una variedad de herramientas, blogs, foros y libros con información de alta utilidad sobre temas cruciales como: Malware, Hacking Web, Hacking de Redes, Ingeniería Social, entre otros. Este repositorio se presenta como una plataforma integral para el aprendizaje y la profundización en diversas áreas de la ciberseguridad, brindando a los usuarios acceso a contenido especializado y recursos prácticos.  
+**HispanoSEC-Resources** es un repositorio diseñado con el propósito de proporcionar recursos para aquellos interesados en aprender sobre Ciberseguridad. Este repositorio alberga una variedad de herramientas, blogs, foros y libros con información de alta utilidad sobre temas cruciales como: Malware, Hacking Web, Hacking de Redes, Ingeniería Social, entre otros. Este repositorio se presenta como una plataforma integral para el aprendizaje y la profundización en diversas áreas de la ciberseguridad, brindando a los usuarios acceso a contenido especializado y recursos prácticos.  
 
 ### Repositorio 2:
 
@@ -19,13 +18,19 @@ El presente repositorio **Ethical-Hacking-Labs** contiene una colección de tuto
 
 URL: https://github.com/mishakorzik/AllHackingTools
 
-El repositorio AllHackingTools tiene varias herramientas para ciberseguridad, en su menú de opciones se observa Explotation Tools, Sniffing and Spoofing, Herramientas para ataques web, SQL injection, entre otras. Entre los puntos negativos del repositorio están: la falta de contribuidores, ya que solo se visualiza uno; y la falta de actividad en el presente año, siendo el año mas activo el 2021. Sin embargo, es útil para aprender herramientas de ciberseguridad por la variedad de su contenido.
+El repositorio **AllHackingTools** tiene varias herramientas para ciberseguridad, en su menú de opciones se observa Explotation Tools, Sniffing and Spoofing, Herramientas para ataques web, SQL injection, entre otras. Entre los puntos negativos del repositorio están: la falta de contribuidores, ya que solo se visualiza uno; y la falta de actividad en el presente año, siendo el año mas activo el 2021. Sin embargo, es útil para aprender herramientas de ciberseguridad por la variedad de su contenido.
 
 ### Repositorio 4: 
 
 URL: https://github.com/0xor0ne/awesome-list?tab=readme-ov-file#networking 
 
-El presente repositorio enlista un sinnúmero de recursos y herramientas sobre ciberseguridad, logrando formar una biblioteca tipo guía, en la cual se indica que herramienta se puede usar dependiendo de la actividad que se va a realizar: análisis de malware, ingeniería inversa, redes, entornos de virtualización, entre otros. En esta encontramos enlaces hacia blogs, tutoriales, investigaciones y fuentes de descarga. 
+El presente repositorio enlista un sin número de recursos y herramientas sobre ciberseguridad, logrando formar una biblioteca tipo guía, en la cual se indica que herramienta se puede usar dependiendo de la actividad que se va a realizar: análisis de malware, ingeniería inversa, redes, entornos de virtualización, entre otros. En esta encontramos enlaces hacia blogs, tutoriales, investigaciones y fuentes de descarga. 
+
+# REPOSITORIO SELECCIONADO 
+
+El repositorio seleccionado es el número **1** debido a su amplia recopilación de información, que incluye links a páginas web útiles, libros, foros y herramientas de gran utilidad, constituyendo así una completa biblioteca de material en ciberseguridad en español. A diferencia de otros repositorios, que aunque contienen información relevante, no lo hacen de forma tan detallada ni cubren una gama tan amplia de temas. Una de las principales ventajas de este repositorio es la organización con la que presenta cada tópico, lo que facilita el acceso a la información y mejora la experiencia de usuario. Su utilidad es doble: por un lado, actúa como una referencia constante para la resolución de problemas y proyectos específicos, mientras que, por otro, proporciona una base sólida tanto para el aprendizaje como para la investigación en ciberseguridad. Este repositorio resulta ser una herramienta esencial no solo para principiantes que desean formarse en el área, sino también para profesionales que buscan mantenerse actualizados y profundizar en nuevas áreas de conocimiento dentro de la seguridad digital."
+
+A continuación, se detalla algunos puntos destacados sobre el repositorio: 
 
 ## ACTUALIZACIONES SUGERIDAS
 La información del repositorio seleccionado es valiosa, sin embargo, se procedió a revisar cada una de las herramientas que ofrece y verificar que estás estén disponibles caso contrario proponer nuevas rutas: 
