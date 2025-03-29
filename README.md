@@ -1,4 +1,4 @@
-# **HispanoSEC Resources**
+# **HispanoSEC Resources** Luis 
 
 ![](secciones/HSEC.gif)
 
